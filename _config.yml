@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            #SHORT COURSE TAG
-tagline:          #FULL COURSE NAME
+title:            MRS
+tagline:          Modelling Reactive Systems
 description:      #SHORT COURSE DESCRIPTION
-url:              https://gu-cs-notes.github.io/REPO-NAME
-baseurl:          /YOUR-REPO-HERE				# Note! This should be the repo title preceded by a forward slash, but not followed by one! For example, the baseurl for AI4 is "/AI4"
+url:              https://gu-cs-notes.github.io/MRS
+baseurl:          /MRS				# Note! This should be the repo title preceded by a forward slash, but not followed by one! For example, the baseurl for AI4 is "/AI4"
 
 author:
-  name:           'Tom Wallis'
+  name:           'David Creigh'
 
 paginate:         5
 
