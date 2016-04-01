@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            MRS
 tagline:          Modelling Reactive Systems
 description:      #SHORT COURSE DESCRIPTION
-url:              https://gu-cs-notes.github.io/MRS
+url:              https://github.com/gu-cs-notes/MRS
 baseurl:          /MRS				# Note! This should be the repo title preceded by a forward slash, but not followed by one! For example, the baseurl for AI4 is "/AI4"
 
 author:
@@ -19,7 +19,10 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          0.0.1
+
+github:
+  repo:           https:/github.com/gu-cs-notes/MRS
 
 github:
   repo:           https://github.com/gu-cs-notes/blackdoc
